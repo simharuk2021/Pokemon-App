@@ -93,10 +93,7 @@ function showModal(item) {
      modalBody.empty();
      modalTitle.empty();
 
-//creates a title element to access the pokemon name
-     // let titleElement = $('<h1>' +'Name: ' + item.name  +'</h1>');
 
-//creates a function which accesses and loops through the various types for each pokemon and then displayes these as a string
 
 //creates an image element to access the images for the pokemon
    let pokemonImageElement = document.createElement('img');
@@ -109,6 +106,7 @@ function showModal(item) {
 modalTitle.append('Name: ' + item.name);
 modalBody.append(pokemonImageElement);
 
+//creates a function which accesses and loops through the various types for each pokemon and then displayes these as a string
 let pokemonTypes = ''
 item.types.forEach(element=>{
   pokemonTypes = pokemonTypes + ' ' + element.type.name
