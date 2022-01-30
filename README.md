@@ -93,7 +93,7 @@
 * [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 * [Bootstrap](https://getbootstrap.com/docs/4.5/getting-started/introduction/)
-* [JavaScript] (https://www.javascript.com/)
+* [JavaScript](https://www.javascript.com/)
 
 
 
@@ -161,7 +161,7 @@ Simon Hart - student developer
 <!-- ACKNOWLEDGMENTS -->
 <!-- ## Acknowledgments
 
-* []()
+* [Career Foundry](https://careerfoundry.com/)
 * []()
 * []()
 
