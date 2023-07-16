@@ -37,7 +37,7 @@ let pokemonRepository = (function () {
       n.classList.add("list-group-item");
       let i = document.createElement("btn");
       (i.innerText = t.name),
-        i.classList.add("btn", "btn-primary", "d-md-block"),
+        i.classList.add("btn", "btn-primary"),
         i.setAttribute("data-target", "#pokemonModal"),
         i.setAttribute("data-toggle", "modal"),
         n.appendChild(i),
